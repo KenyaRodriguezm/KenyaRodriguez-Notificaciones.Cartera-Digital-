@@ -1,0 +1,3 @@
+[submodule "notificaciones"]
+	path = notificaciones
+	url = https://github.com/CRGE600/CarteraDigitalPL.git
